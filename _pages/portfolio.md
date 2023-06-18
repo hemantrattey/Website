@@ -34,6 +34,7 @@ feature_row0-2:
         - Pandas
         - Seaborn
         - Jupyter Notebooks
+---
 
 ## Projects
 
@@ -41,4 +42,3 @@ feature_row0-2:
 <a name="Web Search App"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
 <a name="Netflix Analysis"></a>
----
