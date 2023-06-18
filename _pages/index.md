@@ -9,5 +9,7 @@ classes: wide
 ---
 
 
-Hey My name is Hemant. Nice to meet you.
+<p style="text-align: justify">
+Hey, My name is Hemant and I am currently a MS Data Science student @ RIT.
+</p>
 ```
