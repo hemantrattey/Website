@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hemantrattey"
     - label: "Medium"
-      icon: "fas fa-fw fa-medium"
+      icon: "fab fa-medium"
       url: "https://hemantrattey.medium.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
