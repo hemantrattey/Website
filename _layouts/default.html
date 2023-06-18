@@ -28,14 +28,12 @@
       </div>
     {% endif %}
 
-    {% comment %}
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
-        {% include footer.html %}
+        {% include_cached footer.html %}
       </footer>
     </div>
-    {% endcomment %}
 
     {% include scripts.html %}
 
