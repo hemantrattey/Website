@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Hemant Rattey"
-  avatar           : "/assets/images/Hemant.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Hemant_circle_crop.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS Data Science @ RIT"
   location         : "Rochester, New York"
   email            :
