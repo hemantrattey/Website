@@ -10,7 +10,12 @@
     margin-right: 0;
     width: 100%;
     clear: both;
-    margin-top: 5em;
+    /* sticky footer fix start */
+    position: absolute;
+    bottom: 0;
+    height: auto;
+    /* sticky footer fix end */
+    margin-top: 3em;
     color: $muted-text-color;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
@@ -44,7 +49,7 @@
     .fab,
     .far,
     .fal {
-      color: $muted-text-color;
+      color: $text-color;
     }
   }
   
