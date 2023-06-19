@@ -35,9 +35,25 @@ feature_row0-2:
         - Seaborn
         - Jupyter Notebooks
 
+feature_row0-3:
+  - image_path: assets/gif/giphy.gif
+    alt: "Real Estate Analysis"
+    title: "Real Estate Agent Performance Analysis: Unveiling Top Performers"
+    text: "Embark on a comprehensive exploration of the project, which entails in-depth analysis, visualization, and EDA (Exploratory Data Analysis) of a real estate dataset. By leveraging the CRM platform's dataset, I meticulously wrangled the data to derive meaningful insights. Visually appealing visualizations provide a clear understanding of agent performance, allowing to develop a robust scoring criteria. Witness the power of data-driven decision-making as it helps identify the top three agents in a brokerage firm, setting new benchmarks in the real estate industry."
+    url: "https://github.com/hemantrattey/Squadstack"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+    tags:
+        - Python
+        - Pandas
+        - Seaborn
+        - Jupyter Notebooks
+
 ---
 
 {% include feature_row id="feature_row0-1" type="left" %}
 <a name="Web Search App"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
 <a name="Netflix Analysis"></a>
+{% include feature_row id="feature_row0-3" type="left" %}
+<a name="Real Estate Analysis"></a>
