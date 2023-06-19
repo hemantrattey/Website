@@ -84,12 +84,12 @@
     li,
     dl {
       font-size: 0.9em;
-      color: #262626;
     }
   
     /* paragraph indents */
     p {
       margin: 0 0 $indent-var;
+      color: #262626;
   
       /* sibling indentation*/
       @if $paragraph-indent == true {
@@ -353,7 +353,6 @@
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
       justify-content: space-between;
-      color: #007bb6;
       text-decoration: none;
       border-bottom: 1px solid $border-color;
     }
