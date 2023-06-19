@@ -86,10 +86,6 @@
       font-size: 0.9em;
       color: #262626;
     }
-
-    a {
-      color: #007bb6;
-    }
   
     /* paragraph indents */
     p {
@@ -357,7 +353,7 @@
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
       justify-content: space-between;
-      color: inherit;
+      color: #007bb6;
       text-decoration: none;
       border-bottom: 1px solid $border-color;
     }
