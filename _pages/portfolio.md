@@ -49,6 +49,20 @@ feature_row0-3:
         - Seaborn
         - Jupyter Notebooks
 
+feature_row0-4:
+  - image_path: assets/gif/giphy.gif
+    alt: "Tidy Tuesday"
+    title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
+    text: "Step into the world of [Tidy Tuesday](https://www.tidytuesday.com/), a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by [David Robinson's](https://www.youtube.com/user/safe4democracy) data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
+    url: "https://github.com/hemantrattey/TidyTuesday"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+    tags:
+        - Python
+        - Pandas
+        - Plotnine
+        - Jupyter Notebooks
+
 ---
 
 {% include feature_row id="feature_row0-1" type="left" %}
@@ -57,3 +71,5 @@ feature_row0-3:
 <a name="Netflix Analysis"></a>
 {% include feature_row id="feature_row0-3" type="left" %}
 <a name="Real Estate Analysis"></a>
+{% include feature_row id="feature_row0-4" type="left" %}
+<a name="Tidy Tuesday"></a>
