@@ -56,7 +56,8 @@
    $lighter-gray: mix(#fff, $gray, 90%) !default;
    
    $background-color: #fff !default;
-   $code-background-color: rgba(220, 220, 220, .5) !default;
+   // $code-background-color: rgba(220, 220, 220, .5) !default;
+   $code-background-color: #fafafa !default;
    $code-background-color-dark: $light-gray !default;
    $text-color: $dark-gray !default;
    $muted-text-color: mix(#fff, $text-color, 35%) !default;
@@ -105,7 +106,7 @@
    $xing-color: #006567 !default;
    
    /* links */
-   $link-color: mix(#000, $gray, 15%) !default;
+   $link-color: mix(#000, $info-color, 15%) !default;
    $link-color-hover: mix(#000, $link-color, 25%) !default;
    $link-color-visited: mix(#fff, $link-color, 15%) !default;
    $masthead-link-color: $primary-color !default;
