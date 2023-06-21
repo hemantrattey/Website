@@ -22,7 +22,7 @@ feature_row0-1:
         - OpenCage
 
 feature_row0-2:
-  - image_path: assets/images/Netflix.jpeg
+  - image_path: assets/images/Netflix_1.jpeg
     alt: "Netflix Analysis"
     title: "Exploring My Netflix Journey: Analyzing Viewing History during the Pandemic"
     text: "Discover the fascinating insights into my Netflix journey during the pandemic. Using Python's pandas and seaborn libraries, I meticulously analyzed my viewing history from 2020 to 2021. Uncover intriguing trends and witness how my viewing habits evolved over time. Netflix truly became a lifeline during the pandemic, and this project captures my personal experience of content consumption on this revolutionary platform."
