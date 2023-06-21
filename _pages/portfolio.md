@@ -22,7 +22,7 @@ feature_row0-1:
         - OpenCage
 
 feature_row0-2:
-  - image_path: assets/gif/giphy.gif
+  - image_path: assets/images/Netflix.jpeg
     alt: "Netflix Analysis"
     title: "Exploring My Netflix Journey: Analyzing Viewing History during the Pandemic"
     text: "Discover the fascinating insights into my Netflix journey during the pandemic. Using Python's pandas and seaborn libraries, I meticulously analyzed my viewing history from 2020 to 2021. Uncover intriguing trends and witness how my viewing habits evolved over time. Netflix truly became a lifeline during the pandemic, and this project captures my personal experience of content consumption on this revolutionary platform."
@@ -50,7 +50,7 @@ feature_row0-3:
         - Jupyter Notebooks
 
 feature_row0-4:
-  - image_path: assets/gif/giphy.gif
+  - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
     text: "Step into the world of [Tidy Tuesday](https://www.tidytuesday.com/), a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by [David Robinson's](https://www.youtube.com/user/safe4democracy) data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
