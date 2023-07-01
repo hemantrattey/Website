@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 
 feature_row0-1:
-  - image_path: assets/gif/WebSearch.mp4
+  - image_path: assets/gif/WebSearch.gif
     alt: "Web Search App"
     title: "Web Search Application for Google Local Data"
     text: "This project is a web search application built using Flask and MongoDB that allows users to search data where the [Google Local Data](https://jiachengli1995.github.io/google/index.html) is used as the database which contains review information on Google map (ratings, text, images, etc.), business metadata (address, geographical info, descriptions, category information, price, open hours, and MISC info), and links (relative businesses) up to Sep 2021 in the United States."
