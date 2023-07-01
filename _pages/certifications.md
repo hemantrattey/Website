@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### Neural Networks and Deep Learning | Coursera | DeepLearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/Neural_Networks_and_Deep_Learning.pdf)
+### Neural Networks and Deep Learning | Coursera | DeepLearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](../assets/certificates/Neural_Networks_and_Deep_Learning.pdf)
 - Introduction to Deep Learning
 - Neural Network Basics
 - Building Shallow Neural Networks from scratch in Python
@@ -18,7 +18,7 @@ classes: wide
 
 ----------------------------------------
 
-### Supervised Machine Learning: Regression and Classification | Coursera | DeepLearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/SupervisedLearning.pdf)
+### Supervised Machine Learning: Regression and Classification | Coursera | DeepLearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](../assets/certificates/SupervisedLearning.pdf)
 - Introduction to Machine Learning
 - What is regression and implementation of Linear Regression.
 - What is classification and implementation of Logistic Regression.
@@ -26,7 +26,7 @@ classes: wide
 <!-- Projects:
 - Gifify app -->
 
-### Data Scientist with Python Track | DataCamp [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/Datacamp.pdf)
+### Data Scientist with Python Track | DataCamp [<i class="fas fa-link" aria-hidden="true"></i>](../assets/certificates/Datacamp.pdf)
 - Data Manipulation using Pandas
 - Data Visualization using Seaborn and Matplotlib
 - Statistical Thinking using Python
