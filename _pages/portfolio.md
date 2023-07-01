@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 
 feature_row0-1:
-  - image_path: assets/gif/giphy.gif
+  - image_path: assets/gif/WebSearch.gif
     alt: "Web Search App"
     title: "Web Search Application for Google Local Data"
     text: "This project is a web search application built using Flask and MongoDB that allows users to search data where the [Google Local Data](https://jiachengli1995.github.io/google/index.html) is used as the database which contains review information on Google map (ratings, text, images, etc.), business metadata (address, geographical info, descriptions, category information, price, open hours, and MISC info), and links (relative businesses) up to Sep 2021 in the United States."
@@ -36,7 +36,7 @@ feature_row0-2:
         - Jupyter Notebooks
 
 feature_row0-3:
-  - image_path: assets/gif/giphy.gif
+  - image_path: assets/images/Real_Estate.jpeg
     alt: "Real Estate Analysis"
     title: "Real Estate Agent Performance Analysis: Unveiling Top Performers"
     text: "Embark on a comprehensive exploration of the project, which entails in-depth analysis, visualization, and EDA (Exploratory Data Analysis) of a real estate dataset. By leveraging the CRM platform's dataset, I meticulously wrangled the data to derive meaningful insights. Visually appealing visualizations provide a clear understanding of agent performance, allowing to develop a robust scoring criteria. Witness the power of data-driven decision-making as it helps identify the top three agents in a brokerage firm, setting new benchmarks in the real estate industry."
