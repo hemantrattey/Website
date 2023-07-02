@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### Neural Networks and Deep Learning | Coursera | DeepLearning<span>.ai</span> [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/Neural_Networks_and_Deep_Learning.pdf)
+### Neural Networks and Deep Learning | Coursera | DeepLearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](../assets/docs/certificates/Neural_Networks_and_Deep_Learning.pdf)
 - Introduction to Deep Learning
 - Neural Network Basics
 - Building Shallow Neural Networks from scratch in Python
