@@ -5,7 +5,22 @@ permalink: /portfolio/
 author_profile: true
 classes: wide
 
+
 feature_row0-1:
+  - image_path: assets/gif/Diabetes.jpeg
+    alt: Hospital Readmission Prediction
+    title: Web Search Application for Google Local Data
+    text: Patient Readmission Prediction is a data-driven project aimed at improving patient outcomes in hospitals. It involves analyzing electronic health records from 130 US hospitals over a decade, covering more than 100,000 patients. The dataset, published by [UCI](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008), serves as the foundation for creating a robust data pipeline for cleaning and preprocessing the data. By using simple yet effective machine learning algorithms like Logistic Regression, Random Forest, and XGBoost, the project achieved promising results with a 72% F1-score, 81% Precision, and 67% Recall. This predictive model provides hospitals with insights to better manage patient care and reduce readmission rates.
+    url: https://github.com/hr5259/Hospital_Readmission_Classification
+    btn_label: Code
+    btn_class: btn--primary
+    tags:
+        - Scikit-learn
+        - Pandas
+        - Seaborn
+        - Jupyter Notebooks
+
+feature_row0-2:
   - image_path: assets/gif/WebSearch.gif
     alt: "Web Search App"
     title: "Web Search Application for Google Local Data"
@@ -21,7 +36,7 @@ feature_row0-1:
         - Pandas
         - OpenCage
 
-feature_row0-2:
+feature_row0-3:
   - image_path: assets/images/Netflix_1.jpeg
     alt: "Netflix Analysis"
     title: "Exploring My Netflix Journey: Analyzing Viewing History during the Pandemic"
@@ -35,7 +50,7 @@ feature_row0-2:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-3:
+feature_row0-4:
   - image_path: assets/images/Real_Estate.jpeg
     alt: "Real Estate Analysis"
     title: "Real Estate Agent Performance Analysis: Unveiling Top Performers"
@@ -49,7 +64,7 @@ feature_row0-3:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-4:
+feature_row0-5:
   - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
@@ -66,10 +81,12 @@ feature_row0-4:
 ---
 
 {% include feature_row id="feature_row0-1" type="left" %}
-<a name="Web Search App"></a>
+<a name="Hospital Readmission Prediction"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
-<a name="Netflix Analysis"></a>
+<a name="Web Search App"></a>
 {% include feature_row id="feature_row0-3" type="left" %}
-<a name="Real Estate Analysis"></a>
+<a name="Netflix Analysis"></a>
 {% include feature_row id="feature_row0-4" type="left" %}
+<a name="Real Estate Analysis"></a>
+{% include feature_row id="feature_row0-5" type="left" %}
 <a name="Tidy Tuesday"></a>
