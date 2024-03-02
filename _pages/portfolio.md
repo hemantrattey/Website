@@ -68,7 +68,7 @@ feature_row0-5:
   - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
-    text: "Step into the world of <a href='https://www.tidytuesday.com/' style='color: blue;'>Tidy Tuesday</a>, a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by [David Robinson's](https://www.youtube.com/user/safe4democracy) data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
+    text: "Step into the world of <a href='https://www.tidytuesday.com/' style='color: blue;'>Tidy Tuesday</a>, a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by <a href='https://www.youtube.com/user/safe4democracy' style='color: blue;'>David Robinson's</a> data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
     url: "https://github.com/hemantrattey/TidyTuesday"
     btn_label: "Code"
     btn_class: "btn--primary"
