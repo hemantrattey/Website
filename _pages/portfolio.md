@@ -10,7 +10,7 @@ feature_row0-1:
   - image_path: assets/images/Diabetes.jpeg
     alt: Hospital Readmission Prediction
     title: Web Search Application for Google Local Data
-    text: Patient Readmission Prediction is a data-driven project aimed at improving patient outcomes in hospitals. It involves analyzing electronic health records from 130 US hospitals over a decade, covering more than 100,000 patients. The dataset, published by [UCI](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008), serves as the foundation for creating a robust data pipeline for cleaning and preprocessing the data. By using simple yet effective machine learning algorithms like Logistic Regression, Random Forest, and XGBoost, the project achieved promising results with a 72% F1-score, 81% Precision, and 67% Recall. This predictive model provides hospitals with insights to better manage patient care and reduce readmission rates.
+    text: Patient Readmission Prediction is a data-driven project aimed at improving patient outcomes in hospitals. It involves analyzing electronic health records from 130 US hospitals over a decade, covering more than 100,000 patients. The dataset, published by <a href='https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008' style='color: blue;'>UCI</a>, serves as the foundation for creating a robust data pipeline for cleaning and preprocessing the data. By using simple yet effective machine learning algorithms like Logistic Regression, Random Forest, and XGBoost, the project achieved promising results with a 72% F1-score, 81% Precision, and 67% Recall. This predictive model provides hospitals with insights to better manage patient care and reduce readmission rates.
     url: https://github.com/hr5259/Hospital_Readmission_Classification
     btn_label: Code
     btn_class: btn--primary
@@ -68,7 +68,7 @@ feature_row0-5:
   - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
-    text: "Step into the world of [Tidy Tuesday](https://www.tidytuesday.com/), a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by [David Robinson's](https://www.youtube.com/user/safe4democracy) data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
+    text: "Step into the world of <a href='https://www.tidytuesday.com/' style='color: blue;'>Tidy Tuesday</a>, a beloved weekly project in the R community, now brought to life in Python. This repository offers a Python implementation of Tidy Tuesday, providing a wealth of diverse datasets for data analysis and visualization purposes. Inspired by [David Robinson's](https://www.youtube.com/user/safe4democracy) data screencasts, the aim to replicate the experience using Pandas for data handling and Plotnine, a Python library based on the renowned ggplot package, for captivating visualizations."
     url: "https://github.com/hemantrattey/TidyTuesday"
     btn_label: "Code"
     btn_class: "btn--primary"
