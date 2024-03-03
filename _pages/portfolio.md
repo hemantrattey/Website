@@ -19,7 +19,6 @@ feature_row0-1:
         - Pandas
         - Seaborn
         - Jupyter Notebooks
-    image_html: "<img src='assets/images/Diabetes.jpeg' alt='Hospital Readmission Prediction' title='Diabetic Patient Readmission Prediction' width='1000' height='500'>"
 
 feature_row0-2:
   - image_path: assets/gif/WebSearch.gif
