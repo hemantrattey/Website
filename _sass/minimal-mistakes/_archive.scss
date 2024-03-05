@@ -91,20 +91,13 @@
     position: relative;
     border-radius: $border-radius;
     overflow: hidden;
-    display: flex;
-    flex-direction: column;
-
-    .teaser-content {
-        z-index: 1;
-    }
-
+    
+    // portfolio images dimensions
     img {
-        width: 100%;
-        height: auto;
-        align-self: center; /* Centers the image horizontally */
-        margin-top: auto; /* Pushes the image to the bottom */
+      width: 100%;
+      margin-top: 2em;
     }
-}
+  }
   
   .archive__item-caption {
     position: absolute;
