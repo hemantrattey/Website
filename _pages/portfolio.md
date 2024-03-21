@@ -7,6 +7,20 @@ classes: wide
 
 
 feature_row0-1:
+  - image_path: assets/images/LangChain.png
+    alt: "PDF Pal: Your Document Dialogue Companion"
+    title: "PDF Pal: Your Document Dialogue Companion"
+    text: "PDF Pal is a Python application integrating LangChain and Pinecone technologies, offering a unique approach to interacting with PDF documents. Through natural language conversation, users can effortlessly pose questions about their PDF files, tapping into the extracted text content. By leveraging LangChain's language model capabilities, the application generates accurate and contextually relevant responses to user inquiries. Pinecone technology enhances the efficiency of information retrieval, ensuring rapid and precise answers based on the document content. This innovative tool revolutionizes document management, providing an intuitive and dynamic platform for exploring and extracting insights from PDFs."
+    url: "https://github.com/hr5259/Hospital_Readmission_Classification"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+    tags:
+        - Langchain
+        - Pinecone
+        - Streamlit
+        - Huggingface
+
+feature_row0-2:
   - image_path: assets/images/Diabetes.jpeg
     alt: "Hospital Readmission Prediction"
     title: "Diabetic Patient Readmission Prediction"
@@ -20,7 +34,7 @@ feature_row0-1:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-2:
+feature_row0-3:
   - image_path: assets/gif/WebSearch.gif
     alt: "Web Search App"
     title: "Web Search Application for Google Local Data"
@@ -36,7 +50,7 @@ feature_row0-2:
         - Pandas
         - OpenCage
 
-feature_row0-3:
+feature_row0-4:
   - image_path: assets/images/Netflix_1.jpeg
     alt: "Netflix Analysis"
     title: "Exploring My Netflix Journey: Analyzing Viewing History during the Pandemic"
@@ -50,7 +64,7 @@ feature_row0-3:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-4:
+feature_row0-5:
   - image_path: assets/images/Real_Estate.jpeg
     alt: "Real Estate Analysis"
     title: "Real Estate Agent Performance Analysis: Unveiling Top Performers"
@@ -64,7 +78,7 @@ feature_row0-4:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-5:
+feature_row0-6:
   - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
@@ -79,14 +93,15 @@ feature_row0-5:
         - Jupyter Notebooks
 
 ---
-
 {% include feature_row id="feature_row0-1" type="left" %}
-<a name="Hospital Readmission Prediction"></a>
+<a name="PDF Pal: Your Document Dialogue Companion"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
-<a name="Web Search App"></a>
+<a name="Hospital Readmission Prediction"></a>
 {% include feature_row id="feature_row0-3" type="left" %}
-<a name="Netflix Analysis"></a>
+<a name="Web Search App"></a>
 {% include feature_row id="feature_row0-4" type="left" %}
-<a name="Real Estate Analysis"></a>
+<a name="Netflix Analysis"></a>
 {% include feature_row id="feature_row0-5" type="left" %}
+<a name="Real Estate Analysis"></a>
+{% include feature_row id="feature_row0-6" type="left" %}
 <a name="Tidy Tuesday"></a>
