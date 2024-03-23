@@ -11,14 +11,15 @@ feature_row0-1:
     alt: "PDF Pal: Your Document Dialogue Companion"
     title: "PDF Pal: Your Document Dialogue Companion"
     text: "PDF Pal is a Python application integrating LangChain and Pinecone technologies, offering a unique approach to interacting with PDF documents. Through natural language conversation, users can effortlessly pose questions about their PDF files, tapping into the extracted text content. By leveraging LangChain's language model capabilities, the application generates accurate and contextually relevant responses to user inquiries. Pinecone vector database is used to store the embedding vectors and perform similarity search based on the user query. This innovative tool revolutionizes document management, providing an intuitive and dynamic platform for exploring and extracting insights from PDFs."
-    url: "https://github.com/hr5259/Hospital_Readmission_Classification"
+    url: "https://github.com/hemantrattey/PDF-Pal-Your-Document-Dialogue-Companion"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags:
-        - Langchain
+        - LangChain
         - Pinecone
         - Streamlit
         - Huggingface
+        - PyPDF2
 
 feature_row0-2:
   - image_path: assets/images/Diabetes.jpeg
