@@ -10,3 +10,5 @@ main:
     url: /assets/docs/HemantRattey_CV_FullTime_Short.pdf
   - title: "Certificates"
     url: /certificates/
+  - title: Blog
+    url: /posts-grid/
