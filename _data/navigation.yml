@@ -9,7 +9,7 @@ main:
   # - title: Blog
   #   url: /posts/
   - title: "CV"
-    url: /assets/docs/HemantRattey_CV_FullTime_Short.pdf
+    url: /assets/docs/HemantRattey_CV_FullTime.pdf
   - title: "Certificates"
     url: /certificates/
   
