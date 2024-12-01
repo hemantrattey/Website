@@ -5,8 +5,22 @@ permalink: /portfolio/
 author_profile: true
 classes: wide
 
-
 feature_row0-1:
+  - image_path: assets/images/thediplomat.jpg
+    alt: "From Breaking News to Breaking Civility: A Study of Toxicity Trends in Political Debates"
+    title: "From Breaking News to Breaking Civility: A Study of Toxicity Trends in Political Debates"
+    text: "This project explores toxicity trends in political debates for India and the U.S. using advanced NLP techniques and BERT-based models. A comprehensive dataset was compiled, including over 1000 debate videos for Indian debates from YouTube and 5000+ U.S. debate transcripts from CNN, Fox News, and MSNBC. Debate videos were transcribed using OpenAI’s Whisper for speech recognition and segmented into one-minute intervals to capture granular toxicity scores. Perspective API and a fine-tuned BERT-based model (unitary/toxic-bert) were used for toxicity scoring. Exploratory analysis revealed distinct patterns, such as concentrated toxicity in initial segments of Indian debates and moderate yet explicit language in U.S. debates, showcasing regional hostility trends."
+    url: "https://github.com/hemantrattey/PDF-Pal-Your-Document-Dialogue-Companion"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+    tags:
+        - BERT
+        - HuggingFace
+        - Whisper (OpenAI)
+        - Perspective API
+        - Python
+
+feature_row0-2:
   - image_path: assets/images/LangChain.png
     alt: "PDF Pal: Your Document Dialogue Companion"
     title: "PDF Pal: Your Document Dialogue Companion"
@@ -18,10 +32,10 @@ feature_row0-1:
         - LangChain
         - Pinecone
         - Streamlit
-        - Huggingface
+        - HuggingFace
         - PyPDF2
 
-feature_row0-2:
+feature_row0-3:
   - image_path: assets/images/Diabetes.jpeg
     alt: "Hospital Readmission Prediction"
     title: "Diabetic Patient Readmission Prediction"
@@ -35,7 +49,7 @@ feature_row0-2:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-3:
+feature_row0-4:
   - image_path: assets/gif/WebSearch.gif
     alt: "Web Search App"
     title: "Web Search Application for Google Local Data"
@@ -51,7 +65,7 @@ feature_row0-3:
         - Pandas
         - OpenCage
 
-feature_row0-4:
+feature_row0-5:
   - image_path: assets/images/Netflix_1.jpeg
     alt: "Netflix Analysis"
     title: "Exploring My Netflix Journey: Analyzing Viewing History during the Pandemic"
@@ -65,7 +79,7 @@ feature_row0-4:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-5:
+feature_row0-6:
   - image_path: assets/images/Real_Estate.jpeg
     alt: "Real Estate Analysis"
     title: "Real Estate Agent Performance Analysis: Unveiling Top Performers"
@@ -79,7 +93,7 @@ feature_row0-5:
         - Seaborn
         - Jupyter Notebooks
 
-feature_row0-6:
+feature_row0-7:
   - image_path: assets/images/TidyTuesday.png
     alt: "Tidy Tuesday"
     title: "Tidy Tuesday using Python: Exploring Data with Pandas and Plotnine"
@@ -95,14 +109,16 @@ feature_row0-6:
 
 ---
 {% include feature_row id="feature_row0-1" type="left" %}
-<a name="PDF Pal: Your Document Dialogue Companion"></a>
+<a name="From Breaking News to Breaking Civility: A Study of Toxicity Trends in Political Debates"></a>
 {% include feature_row id="feature_row0-2" type="left" %}
-<a name="Hospital Readmission Prediction"></a>
+<a name="PDF Pal: Your Document Dialogue Companion"></a>
 {% include feature_row id="feature_row0-3" type="left" %}
-<a name="Web Search App"></a>
+<a name="Hospital Readmission Prediction"></a>
 {% include feature_row id="feature_row0-4" type="left" %}
-<a name="Netflix Analysis"></a>
+<a name="Web Search App"></a>
 {% include feature_row id="feature_row0-5" type="left" %}
-<a name="Real Estate Analysis"></a>
+<a name="Netflix Analysis"></a>
 {% include feature_row id="feature_row0-6" type="left" %}
+<a name="Real Estate Analysis"></a>
+{% include feature_row id="feature_row0-7" type="left" %}
 <a name="Tidy Tuesday"></a>
